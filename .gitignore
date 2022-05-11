@@ -1,0 +1,7 @@
+
+# file
+/vendr/
+.idea
+
+# app
+*.exe

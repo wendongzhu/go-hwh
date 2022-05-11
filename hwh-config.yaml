@@ -1,0 +1,8 @@
+Name: hwh-conf
+Host: 127.0.0.1
+Port: 3020
+
+
+FilePath:
+  ArchivePath: D:\timer\hwh\archive\CustomerArchive_bak_0218.xcarch
+  DataPath: D:\timer\hwh\data\
